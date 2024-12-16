@@ -1,0 +1,21 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# database & logs
+*.db
+*.sqlite3
+*.log
+run.bat
+requirements_dev.txt
+# venv
+my_env
+temp
+static
+uploads
+venv
+
